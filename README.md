@@ -1,1 +1,1 @@
-Url shortner app using flask
+Url shortener app using flask

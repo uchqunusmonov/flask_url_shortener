@@ -1,3 +1,5 @@
 .venv
 .env
 instance/urls.db
+__pycache__
+.idea
